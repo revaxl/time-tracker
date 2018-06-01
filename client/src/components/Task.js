@@ -105,7 +105,9 @@ class Task extends Component {
 			)
 		} else {
 			return (
-				<p> loading </p>
+				<div className="container">
+					<h2> no tasks </h2>
+				</div>
 			)
 		}
 	}
