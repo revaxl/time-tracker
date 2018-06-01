@@ -80,7 +80,8 @@ class Timer extends Component {
 				this.setState({
 					count: 0,
 					title: "",
-					description: "",
+          description: "",
+          duration: "",
 					timerStatus: 'stopped'
 				});
 			})

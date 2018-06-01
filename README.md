@@ -3,7 +3,10 @@ time tracking app which can be used to track the time spent on tasks
 
 this app is made by Nodejs for the backend along with mongodb database and ReactJs for the frotend
 
-to run this app you need run this command after you clone the project
+requirements:
+Nodejs 8 or higher
+
+to run this app you need run these commands after you clone the project
 
 ```
 npm install (in the root folder)
@@ -11,7 +14,7 @@ cd client
 npm install
 ```
 
-after the dependencies are installed, from the root folder run
+after the dependencies are installed, from the root folder run this command from terminal
 
 ```
 npm run dev
