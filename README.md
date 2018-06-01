@@ -18,13 +18,14 @@ npm run dev
 ```
 
 I spend a day working on this project in which I did:
-	- analysing the problem
-	- researching the web on how the time trackers work
-	- defining the model for database
-	- creating the layout skeleton
-	- building the backend api
-	- building the frontend 
-	
+
+- analysing the problem
+- researching the web on how the time trackers work
+- defining the model for database
+- creating the layout skeleton
+- building the backend api
+- building the frontend 
+
 I'm a beginner with react so it took me more time than I estimated.
 
 I liked the timer part of the app it is the more important part of the application in my opinion.
