@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 8000;
 
 const app = express();
 
-mongoose.connect('mongodb://user:timetracker1@ds247077.mlab.com:47077/time-tracker', (err) => {
+mongoose.connect('MONGODB_URL_HERE', (err) => {
 	if (err) throw err;
 	console.log('connected to db');
 });
